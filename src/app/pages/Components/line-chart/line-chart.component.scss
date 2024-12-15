@@ -1,17 +1,17 @@
-.lineChart {
-    width: 800px; 
+.line-Chart {
+    width: 600px; 
     height: auto;
   }
   
   @media (max-width: 768px) { 
-    .lineChart {
+    .line-Chart {
       width: 400px; 
       padding: 0 10px; 
     }
   }
   
   @media (max-width: 480px) { 
-    .lineChart {
+    .line-Chart {
       width: 300px;
       height: auto;
     }
